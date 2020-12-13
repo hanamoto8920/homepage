@@ -1,0 +1,22 @@
+.info {
+    margin: 10px auto 10px auto;
+}
+
+.table-title {
+    width: 50%;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.info-text {
+    color: #4682B4;
+}
+
+.th-text {
+    text-align: center;
+    font-size: 18px;
+}
